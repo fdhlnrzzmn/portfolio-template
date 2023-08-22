@@ -3,7 +3,7 @@
 Sumber UI Design : https://codedesign.dev/challenge/the-sugihartos
 
 ## Catatan
-- Belum Responsif, baru untuk tampilan layar 1280px
+- Belum responsif, baru untuk tampilan layar 1280px
 - Belum sempurna, masih banyak detail yang belum sesuai dengan contoh UI Design
 
 ### Hero Section 
